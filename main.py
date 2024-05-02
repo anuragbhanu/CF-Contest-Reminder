@@ -4,8 +4,8 @@ import pytz
 from twilio.rest import Client
 
 CF_URL = "https://codeforces.com/api/contest.list"
-account_sid = "Twilio Account SID "
-auth_token = "Twilio Auth Token"
+account_sid = "Your Twilio Account SID "
+auth_token = "Your Twilio Auth Token"
 twilio_Number = "Your Twilio phone number"
 Phone_Number = "Your Phone Number with Country Code"
 
