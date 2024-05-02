@@ -43,5 +43,7 @@ This Python script fetches upcoming Codeforces contests and sends SMS reminders 
     - Monitor its execution logs for any issues.
 ## Demo
 
-Insert gif or link to demo
+![1](https://github.com/anuragbhanu/CF-Contest-Remainder/assets/130905151/48a12738-9751-4297-a166-1927e14d11d7)
+![2](https://github.com/anuragbhanu/CF-Contest-Remainder/assets/130905151/43d6dce7-c325-4898-b67b-5e0922569bce)
+
 
