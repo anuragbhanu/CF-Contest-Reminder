@@ -1,7 +1,7 @@
 
 # Codeforces Contest Reminder
 
-This Python script fetches upcoming Codeforces contests and sends SMS reminders using Twilio.
+This Python script Automatically sends SMS reminders using Twilio for the contest day on CodeForces.
 
 
 ## Installation
