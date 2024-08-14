@@ -53,7 +53,7 @@ def send_sms():
     contests_list = get_contest_list()
 
     for contest in contests_list:
-        if "Div." in contest["name"]:
+        if "Div." or "Global" in contest["name"]:
             if contest["relativeTimeSeconds"] * (-1) <= 86400:
                 contest_name = contest["name"]
                 start_time = get_time(contest["startTimeSeconds"])
